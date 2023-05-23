@@ -23,7 +23,7 @@ This module's focus was to refactor the starter code to create an E-Commerce app
 
 ## Usage
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1gT5gxxb46B2MzWwfMx-69pGcSsSq6tUC/view)
 
 ## License
 
